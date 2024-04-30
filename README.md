@@ -14,7 +14,7 @@ The provided code includes functions to compute gradient images and detect edges
 <h2>Input and Output Images</h2>
 <h2>Input Images</h2>
 
-![Input Image 1](https://example.com/input_image1.jpg)
+![Input Image 1](https://github.com/akboudh/Edge-Deection/blob/main/edgedetection.cpp%20(1).png)
 ![Input Image 2](https://example.com/input_image2.jpg)
 
 <h2>Output Images</h2>
