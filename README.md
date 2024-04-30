@@ -15,12 +15,21 @@ The provided code includes functions to compute gradient images and detect edges
 <h2>Input Images</h2>
 
 ![Input Image 1](https://github.com/akboudh/Edge-Deection/blob/main/edgedetection.cpp%20(1).png)
-![Input Image 2](https://example.com/input_image2.jpg)
+![Input Image 2](https://github.com/akboudh/Edge-Deection/blob/main/edgedetection.cpp%20(2).png)
+![Input Image 3](https://github.com/akboudh/Edge-Deection/blob/main/edgedetection.cpp%20(3).png)
 
 <h2>Output Images</h2>
 
-![Output Image 1](https://example.com/output_image1.jpg)
-![Output Image 2](https://example.com/output_image2.jpg)
+![Output Image 1](annotated-circleoutputedge_image_5x5.png-1.png)
+![Output Image 2](https://github.com/akboudh/Edge-Deection/blob/main/annotated-circleoutputgradient_image_5x5.png-1.png)
+![Output Image 2](hhttps://github.com/akboudh/Edge-Deection/blob/main/annotated-circleoutputedge_image_3x3.png-1.png)
+![Output Image 2](https://github.com/akboudh/Edge-Deection/blob/main/annotated-imgoutputedge_image_3x3.png-1.png)
+![Output Image 2](https://github.com/akboudh/Edge-Deection/blob/main/annotated-imgoutputedge_image_5x5.png-1.png)
+![Output Image 2](https://github.com/akboudh/Edge-Deection/blob/main/annotated-imgoutputgradient_image_3x3.png-1.png)
+![Output Image 2](https://github.com/akboudh/Edge-Deection/blob/main/annotated-ladyoutputedge_image_3x3.png-1.png)
+![Output Image 2](https://github.com/akboudh/Edge-Deection/blob/main/annotated-ladyoutputedge_image_5x5.png-1.png)
+![Output Image 2](https://github.com/akboudh/Edge-Deection/blob/main/annotated-ladyoutputgradient_image_5x5.png-1.png)
+![Output Image 2](https://github.com/akboudh/Edge-Deection/blob/main/annotated-ladyoutputgradient_image_3x3.png-1.png)
 
 
 <h2>Languages and Utilities Used</h2>
